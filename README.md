@@ -1,7 +1,8 @@
 ### Hi there 👋
-It´s Pablo if you whant to know more check my website [pablomonteoliva.com](https://www.pablomonteoliva.com/) and follow me on [Twitter](https://twitter.com/pablomonteoliva).
+It´s Pablo if you want to know more, follow me on [X](https://twitter.com/pablomonteoliva).
 
-<!--
+- 🔭 I’m currently working on memora.studio and all things design at range.org
+<!--  
 **pablomonteolivam/pablomonteolivam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
